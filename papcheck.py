@@ -1,5 +1,5 @@
 """
-Author: Thomas Simmons <g.thomas.simmons@gmail.com>
+Author: Thomas Simmons
 6/1/2021
 """
 

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Sensitive/data files
+service_account.json
+domains.json
+data.csv
+*.csv
